@@ -1,3 +1,5 @@
+https://github.com/pjfanning/aws-spi-pekko-http/issues/19
+
 1. Authenticate to AWS, have a valid `~/.aws/credentials` file setup.
 2. Upload an empty file to s3 with the following command:
 ```
